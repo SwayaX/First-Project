@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+}
+
+.header{
+    text-align: center;
+    color: green;
+}
+a{
+    margin: 10px;
+    padding: 10px;
+    color: whitesmoke;
+    text-decoration: none;
+}
+a:hover{
+    padding: 10px;
+    background-color: white;
+    color: black;
+}
+section h3#heading{
+    color: green;
+}
+.description{
+    color: white;
+    font-size: medium;
+}
+.img{
+    display: block;
+    block-size: 100px;
+    color: white;
+    background-color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+.jobathon,.underline{
+    font-size: medium;
+    color: white;
+}
+.content-parent{
+    display: grid;
+   grid-template-columns: 2fr 1fr;
+    gap: 10px;
+}
+.whatsnew,.quicklinks{
+    color: green;
+}
+.Course{
+    color: white;
+    font-size: medium;
+}
